@@ -1,0 +1,10 @@
+[package]
+name = "guess_game"
+version = "1.0.0"
+edition = "2021"
+
+# Belongs to Harshil's Rust Learnings. Once a friend adviced Rust is waste of time. So, I am wasting my time effectively. 
+
+[dependencies]
+rand = "0.5.5"
+colored = "2.0.0"
